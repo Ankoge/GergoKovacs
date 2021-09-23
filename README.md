@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankoge
 - 👀 I’m interested in ... interested
 - 🌱 I’m currently learning ... learning
-- 💞️ I’m looking to collaborate on ... collaborate
+- 💞️ I’m looking to collaborate on ... collaborateing
 - 📫 How to reach me ... on discord or email or phone
 
 <!---
