@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankoge
-- 👀 I’m interested in ... interested
-- 🌱 I’m currently learning ... learning
+- 👀 I’m interested in ... interest
+- 🌱 I’m currently learning ... learn
 - 💞️ I’m looking to collaborate on ... collaborateing
 - 📫 How to reach me ... on discord or email or phone
 
