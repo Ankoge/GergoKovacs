@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankoge
+- 👋 Hi, I’m @GergoKovacs
 - 👀 I’m interested in ... interest
 - 🌱 I’m currently learning ... learn
 - 💞️ I’m looking to collaborate on ... collaborateing
